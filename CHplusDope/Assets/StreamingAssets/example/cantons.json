@@ -1,0 +1,186 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "Aargau",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-AG.png"
+        },
+        {
+            "id": 2,
+            "name": "Appenzell Ausserrhoden",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-AR.png"
+        },
+        {
+            "id": 3,
+            "name": "Appenzell Innerrhoden",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-AI.png"
+        },
+        {
+            "id": 4,
+            "name": "Basel-Landschaft",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-BL.png"
+        },
+        {
+            "id": 5,
+            "name": "Basel-Stadt",
+            "image": "https://api.staging.chplusapp.ch/static/canton/local-hero-full-canton-BS.svg",
+            "backgroundImage": "https://api.staging.chplusapp.ch/static/canton/local-background-canton-BS.svg",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-BS.png"
+        },
+        {
+            "id": 6,
+            "name": "Bern",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-BE.png"
+        },
+        {
+            "id": 7,
+            "name": "Fribourg",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-FR.png"
+        },
+        {
+            "id": 8,
+            "name": "Genève",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-GE.png"
+        },
+        {
+            "id": 9,
+            "name": "Glarus",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-GL.png"
+        },
+        {
+            "id": 10,
+            "name": "Graubünden",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-GR.png"
+        },
+        {
+            "id": 11,
+            "name": "Jura",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-JU.png"
+        },
+        {
+            "id": 12,
+            "name": "Luzern",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-LU.png"
+        },
+        {
+            "id": 13,
+            "name": "Neuchâtel",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-NE.png"
+        },
+        {
+            "id": 14,
+            "name": "Nidwalden",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-NW.png"
+        },
+        {
+            "id": 15,
+            "name": "Obwalden",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-OW.png"
+        },
+        {
+            "id": 16,
+            "name": "Schaffhausen",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-SH.png"
+        },
+        {
+            "id": 17,
+            "name": "Schwyz",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-SZ.png"
+        },
+        {
+            "id": 18,
+            "name": "Solothurn",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-SO.png"
+        },
+        {
+            "id": 19,
+            "name": "St. Gallen",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-SG.png"
+        },
+        {
+            "id": 20,
+            "name": "Thurgau",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-TG.png"
+        },
+        {
+            "id": 21,
+            "name": "Ticino",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-TI.png"
+        },
+        {
+            "id": 22,
+            "name": "Uri",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-UR.png"
+        },
+        {
+            "id": 23,
+            "name": "Valais",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-VS.png"
+        },
+        {
+            "id": 24,
+            "name": "Vaud",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-VD.png"
+        },
+        {
+            "id": 25,
+            "name": "Zug",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-ZG.png"
+        },
+        {
+            "id": 26,
+            "name": "Zürich",
+            "image": "",
+            "backgroundImage": "",
+            "coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-round-canton-ZH.png"
+        }
+    ]
+}

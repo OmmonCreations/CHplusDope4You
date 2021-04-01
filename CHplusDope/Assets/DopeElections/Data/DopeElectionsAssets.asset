@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae4da97d0014f248661d102b0022e9f, type: 3}
+  m_Name: DopeElectionsAssets
+  m_EditorClassIdentifier: 
+  _talkers:
+  - {fileID: 9098485298790355605, guid: 46c8a4f9764734d439afab0133bcf5ce, type: 3}
+  - {fileID: 9098485298790355605, guid: 269cf4d0d1ec35344825bfa5f9c1783b, type: 3}
+  - {fileID: 3298374697207407707, guid: d5a9e6dc395835b45b9ce5f4fa75e77b, type: 3}
+  - {fileID: 9098485298790355605, guid: 53aa48706c7b87943b13f797b037435f, type: 3}
+  _candidates:
+  - {fileID: 11400000, guid: 575b194a348c3834caa6be3048defcb1, type: 2}
+  - {fileID: 11400000, guid: 44e9b0b21af11a641a29075c80cf6d40, type: 2}
+  - {fileID: 11400000, guid: d028eb56f5efa304bb53b22ffaa1abf7, type: 2}
+  - {fileID: 11400000, guid: bfde47ca36be46445be61c7e02c963ea, type: 2}
+  - {fileID: 11400000, guid: 286f099dfacfabd4c830abeda87d1386, type: 2}
+  - {fileID: 11400000, guid: 7b2e382683641fa4eb11449865650a0c, type: 2}
+  - {fileID: 11400000, guid: 4e8f139f0987f5b49af1fcecc45b37f4, type: 2}

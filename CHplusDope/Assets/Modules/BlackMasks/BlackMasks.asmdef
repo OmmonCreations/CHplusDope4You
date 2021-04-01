@@ -1,0 +1,15 @@
+{
+    "name": "BlackMasks",
+    "references": [
+        "GUID:41b565d1275974581a1bc493c8a19566"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

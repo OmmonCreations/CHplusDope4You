@@ -1,0 +1,246 @@
+{
+	"Items": [
+		{
+			"id": 226,
+			"gender": "m",
+			"zip": 4053,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 1,
+			"occupation": "Selbständiger Ökonom",
+			"hobbies": "Singen, Lesen, Berge",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "Ich werde mich engagiert für den Kanton Basel-Stadt, seine Einwohnerinnen und Einwohner und für die Wirtschaft einsetzen. Ich war acht Jahre Generalsekretär von Eva Herzog im Finanzdepartement Basel-Stadt. Ich kenne die Dossiers, die Verwaltung und die konkrete Arbeit. Seit fast vier Jahren bin ich nun Grossrat von Basel-Stadt. Ich arbeite als selbständiger Ökonom in meiner eigenen Firma und berate und unterstütze vor allem andere Städte und Kantone.\nIch würde mich über Ihre Stimme freuen.",
+			"topics": "Erhalt von Arbeitsplätze, Ambitionierter Klimaschutz, Vereinberkeit von Familie und Beruf, Klimafreundliche und stadtverträgliche Mobilität, Soziale Sicherheit",
+			"firstName": "Günther",
+			"lastName": "Oberbäumig",
+			"birthYear": 1981,
+			"urlImage": "",
+			"partyId": 4,
+			"smartSpider": {
+				"axis_1": 0.9399999976158142,
+				"axis_2": 0.33000001311302187,
+				"axis_3": 0.1599999964237213,
+				"axis_4": 0.11999999731779099,
+				"axis_5": 0.05000000074505806,
+				"axis_6": 0.949999988079071,
+				"axis_7": 0.949999988079071,
+				"axis_8": 0.949999988079071
+			},
+			"civilStatus": "Célibataire",
+			"education": "Haute école spécialisée",
+			"denomination": "",
+			"listNumber": 5,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "155'000 Franken ist das Wahlkampfbudget der SP und Grünen Partei für die Regierungswahlen, siehe https://www.sp-bs.ch/sites/sp-bs.ch/files/documents/200812_medienmappe-rr-kampa.pdf\n5'000 Franken für meine eigene Kampagne.",
+			"vestedInterests": "",
+			"termsInOffice": [
+				{
+					"dateStart": "2017-01-01",
+					"dateEnd": "",
+					"mandate": "Grossrat Basel-Stadt"
+				},
+				{
+					"dateStart": "1996-01-01",
+					"dateEnd": "1998-01-01",
+					"mandate": "Einwohnerrat Allschwil"
+				}
+			],
+			"listPlaces": [
+				{
+					"position": 31,
+					"number": "05.31"
+				}
+			]
+		},
+		{
+			"id": 401,
+			"gender": "m",
+			"zip": 4125,
+			"city": "Riehen",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "Dr. iur., Advokat",
+			"hobbies": "",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "",
+			"topics": "",
+			"firstName": "Werner",
+			"lastName": "Würschtliwahn",
+			"birthYear": 1974,
+			"urlImage": "",
+			"partyId": 9,
+			"smartSpider": {
+				"axis_1": 0.9399999976158142,
+				"axis_2": 0.7699999809265137,
+				"axis_3": 0.7900000214576721,
+				"axis_4": 0.47999998927116396,
+				"axis_5": 0.5,
+				"axis_6": 0.11999999731779099,
+				"axis_7": 0.550000011920929,
+				"axis_8": 0.4300000071525574
+			},
+			"civilStatus": "",
+			"education": "",
+			"denomination": "",
+			"listNumber": 12,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 3,
+					"number": "12.03"
+				}
+			]
+		},
+		{
+			"id": 469,
+			"gender": "f",
+			"zip": 4056,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 1,
+			"occupation": "Autorin, Grossrätin und Unternehmerin",
+			"hobbies": "(Beach-)volleyball, Trailrunning, Musik",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "Nach Tätigkeiten als Historikerin und Journalistin setze ich mich heute mit der Zukunft auseinander: Wie müssen jetzt wir das Leben und Arbeiten von morgen planen, um für die kommenden Herausforderungen gerüstet zu sein? Dafür braucht es Neugierde, Dialogbereitschaft sowie ein breites Netzwerk in Politik, Wirtschaft und Gesellschaft. Was ich tue, packe ich mit Leidenschaft an, sei es im Bereich Startupförderung, Umwelt, Sport, Kultur oder Gleichstellung. Die Zukunft Basels liegt in unserer Hand",
+			"topics": "Offene Gesellschaft, Umwelt/Nachhaltigkeit, Gleichstellung, Digitalisierung und Smart City, Grenzüberschreitende Beziehungen",
+			"firstName": "Gisela",
+			"lastName": "Guggisberg",
+			"birthYear": 1977,
+			"urlImage": "",
+			"partyId": 16,
+			"smartSpider": {
+				"axis_1": 0.9399999976158142,
+				"axis_2": 0.75,
+				"axis_3": 0.23000000417232514,
+				"axis_4": 0.27000001072883608,
+				"axis_5": 0.10000000149011612,
+				"axis_6": 0.9300000071525574,
+				"axis_7": 0.6800000071525574,
+				"axis_8": 0.8399999737739563
+			},
+			"civilStatus": "Sans indication",
+			"education": "Haute école spécialisée",
+			"denomination": "Sans indication",
+			"listNumber": 10,
+			"campaignBudget": 75000,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [
+				{
+					"dateStart": "2019-01-01",
+					"dateEnd": "",
+					"mandate": "Grossrätin"
+				}
+			],
+			"listPlaces": [
+				{
+					"position": 1,
+					"number": "10.01"
+				}
+			]
+		},
+		{
+			"id": 618,
+			"gender": "f",
+			"zip": 4058,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 1,
+			"occupation": "Dr. iur. Advokat, Chefin Verkehrspolizei BL",
+			"hobbies": "Urban Gardening, Wandern, Spazieren, Fotografie",
+			"books": "Momo",
+			"music": "Imagine Dragons, Amy Macdonald",
+			"movies": "Me Before You, Gladiator",
+			"slogan": "Meine Ziele sind eine klare Positionierung des Regierungspräsidiums und intensive Zusammenarbeit mit den anderen Departementen. Die Einwohnerinnen und Einwohner von Basel, Riehen und Bettingen sollen den Nutzen dieses Departements mit Querschnittsaufgaben erkennen können. Für diese Aufgabe bringe ich Führungserfahrung aus meiner Tätigkeit in der Baselbieter Verwaltung und einer Gemeinde-Exekutive mit. Mit einem frischen Blick von aussen, möchte ich gestalten statt verwalten.",
+			"topics": "Stadt- und Kantonsentwicklung, Kultur",
+			"firstName": "Miggi",
+			"lastName": "Supertoll",
+			"birthYear": 1987,
+			"urlImage": "",
+			"partyId": 8,
+			"smartSpider": {
+				"axis_1": 0.9399999976158142,
+				"axis_2": 0.7799999713897705,
+				"axis_3": 0.5799999833106995,
+				"axis_4": 0.699999988079071,
+				"axis_5": 0.6000000238418579,
+				"axis_6": 0.23999999463558198,
+				"axis_7": 0.7200000286102295,
+				"axis_8": 0.5899999737739563
+			},
+			"civilStatus": "Célibataire",
+			"education": "Haute école spécialisée",
+			"denomination": "Evangélique réformé (protestant)",
+			"listNumber": 3,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 10,
+					"number": "03.10"
+				}
+			]
+		},
+		{
+			"id": 766,
+			"gender": "m",
+			"zip": 4057,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "Aktivist, Familienbegleiter, Künstler, Vorstand ZUKUNFT.KLYBECK",
+			"hobbies": "wandern, essen, kochen, neues probieren, schiessen, ",
+			"books": "Orts- und Flurnamen der Region Nordwestschweiz, Jahresberichte der archäologischen Bodenforschungen, Lexika, Sachbücher.",
+			"music": "Elektronische Tanzmusik: Underworld, Chemical Brothers, Zombie Nation, Jan Driver, Boys Noize, SIRIUSMO, K.I.Z",
+			"movies": "Fight Club, Team America, Blair Whitch Project, Eternal Sunshine of a Spotless Mind, Birdman, Alles von Charlie Kaufman, alles von David Schalko... ",
+			"slogan": "Weil ich ein unabhängiger Querdenker bin (so nennen sich zwar gewisse Verschwörungstheoretiker auch, aber bei mir stimmt's! ;-). Ich möchte zeigen, dass Politik auch Spass machen kann und sogar Kunst sein kann. Mein Ziel: Eine Welt mittels Gesetzen zu gestalten, in der Jede und Jeder seinen Platz hat. Ich möchte eine rationellere, weniger ideologische Politik, in der man einander zuhört und repektiert, vorleben.",
+			"topics": "Stadt-Entwicklung, Gleichberechtigung, Domokratie, Rationale Vernunft, Kultur",
+			"firstName": "Hans",
+			"lastName": "Im Glück",
+			"birthYear": 1990,
+			"urlImage": "",
+			"partyId": 10,
+			"smartSpider": {
+				"axis_1": 1.0,
+				"axis_2": 0.5400000214576721,
+				"axis_3": 0.1899999976158142,
+				"axis_4": 0.07000000029802323,
+				"axis_5": 0.05000000074505806,
+				"axis_6": 0.8299999833106995,
+				"axis_7": 0.8100000023841858,
+				"axis_8": 0.9599999785423279
+			},
+			"civilStatus": "Sans indication",
+			"education": "Formation professionelle supérieure (maîtrise, brevet fédéral etc.)",
+			"denomination": "Aucune appartenance",
+			"listNumber": 13,
+			"campaignBudget": 500,
+			"campaignBudgetComment": "Wir haben kein Geld, aber unbezahlbar gute Ideen!\nWir sind für transparente Politfinanzierung. Unsere Parteifinanzen finden Sie auf unserer Homepage aufgeschlüsselt. Bei Fragen: fragen!",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 1,
+					"number": "13.01"
+				}
+			]
+		}
+	]
+}

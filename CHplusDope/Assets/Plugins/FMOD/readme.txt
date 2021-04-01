@@ -1,0 +1,1 @@
+Delete the placeholder contents in this folder, then download and import the FMOD Studio Unity Plugin (Version 2.01.05) from https://fmod.com.

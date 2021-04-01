@@ -1,0 +1,19 @@
+{
+    "name": "AppManagement",
+    "references": [
+        "GUID:5836f6f835a73884ba73afbb94d949ea",
+        "GUID:2d5d8f05b4aa27c4e95a7aacf8796f30",
+        "GUID:79b328efeb30993429c2dce7869ddde0",
+        "GUID:06cb71d402e82a949a07376f374c81a6",
+        "GUID:db6e3de22e4bf5d4a9208a96ad04a6b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

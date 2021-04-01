@@ -1,0 +1,16 @@
+{
+    "name": "FMODSoundInterface",
+    "references": [
+        "GUID:0c752da273b17c547ae705acf0f2adf2",
+        "GUID:41b565d1275974581a1bc493c8a19566"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FMODSoundInterface.BlackMasks",
+    "references": [
+        "GUID:9b0f1cb1f8a3c224cbbef2a50de189d6",
+        "GUID:b8e1d9bbc4b22964f81172b92b8ac374"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

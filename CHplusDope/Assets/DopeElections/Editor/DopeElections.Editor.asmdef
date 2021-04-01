@@ -1,0 +1,19 @@
+{
+    "name": "DopeElections.Editor",
+    "references": [
+        "GUID:bc5b357111505451583361e845bdbd18",
+        "GUID:fa2037d2b77ca604b9a36ceeb46bcc30",
+        "GUID:2d5d8f05b4aa27c4e95a7aacf8796f30"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+{
+	"Items": [
+		{
+			"id": 3,
+			"constituencyId": 56,
+			"electionId": 1,
+			"seats": 34,
+			"name": "Basel Landrat 2020",
+			"repetitions": 3,
+			"logo": "",
+			"electionDate": "2020-10-25",
+			"label": "Grossrat",
+			"type": "legislative",
+			"updatedAt": "2021-01-28 14:52:32"
+		},
+		{
+			"id": 6,
+			"constituencyId": 59,
+			"electionId": 3,
+			"seats": 7,
+			"name": "Basel Regierungsrat 2020",
+			"repetitions": 1,
+			"logo": "",
+			"electionDate": "2020-10-25",
+			"label": "Regierungsrat",
+			"type": "executive",
+			"updatedAt": "2021-01-28 14:52:51"
+		}
+	]
+}

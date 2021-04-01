@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{73ad4158-3ded-4bbc-91c7-7ff359eaff25}">
+		<property name="name">
+			<value>ibex</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1ce1974-e0c3-443f-b290-c0d4577a9a7a}</destination>
+		</relationship>
+	</object>
+</objects>

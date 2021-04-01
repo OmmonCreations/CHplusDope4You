@@ -1,0 +1,235 @@
+{
+	"Items": [
+		{
+			"id": 3,
+			"gender": "f",
+			"zip": 4057,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "MA, Verlagslektorin, Vorstand CVP Frauen und CVP 60+ Basel-Stadt",
+			"hobbies": "Musik, Klavier- und Gitarrespielen, Lesen, Skifahren, Tennisspielen, Oper und Theater",
+			"books": "Alles von Siegfried Lenz, Fräulein Nettes kurzer Sommer, Gewalt und Mitgefühl, Schnelles Denken, langsames Denken - Pipi Langstrumpf! ",
+			"music": "Ich liebe Brahms, aber auch die Rolling Stones ... Es gibt so viel wunderbare Musik! ",
+			"movies": "Wer die Nachtigall stört, Melancholia",
+			"slogan": "Weil ich mich für respektvolles, faires und tolerantes Miteinander einsetze, gegen Hetze und Diskriminierung. Ich will, dass Interessen und Positionen gewissenhaft abgewägt werden mit dem Ziel, faire Entscheidungen zu treffen zum Wohl der Baslerinnen und Basler. Dies ohne linke oder rechte Scheuklappen, sondern mit Sachverstand. ",
+			"topics": "Bildungspolitik,Gleichberechtigung,Seniorenpolitik",
+			"firstName": "Vreni",
+			"lastName": "vom Berg",
+			"birthYear": 1964,
+			"urlImage": "",
+			"partyId": 1,
+			"smartSpider": {
+				"axis_1": 0.8799999952316284,
+				"axis_2": 0.36000001430511477,
+				"axis_3": 0.25,
+				"axis_4": 0.5099999904632568,
+				"axis_5": 0.3499999940395355,
+				"axis_6": 0.6899999976158142,
+				"axis_7": 0.75,
+				"axis_8": 0.75
+			},
+			"civilStatus": "Marié·e",
+			"education": "Haute école spécialisée",
+			"denomination": "Aucune appartenance",
+			"listNumber": 7,
+			"campaignBudget": 1000,
+			"campaignBudgetComment": "Ich finanziere den meinen Wahlkampf ausschliesslich mit eigenen Mitteln.",
+			"vestedInterests": "",
+			"termsInOffice": [
+				{
+					"dateStart": "2019-01-01",
+					"dateEnd": "",
+					"mandate": "Vorstand CVP Frauen und Vorstand CVP 60+ Basel Stadt"
+				}
+			],
+			"listPlaces": [
+				{
+					"position": 7,
+					"number": "07.07"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"gender": "f",
+			"zip": 4054,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "Ehem. Assistentin Hochschulleitung der Musik-Akademie Basel FHNW",
+			"hobbies": "",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "",
+			"topics": "",
+			"firstName": "Sabrina",
+			"lastName": "Ohnebart",
+			"birthYear": 1958,
+			"urlImage": "",
+			"partyId": 1,
+			"smartSpider": {
+				"axis_1": 1.0,
+				"axis_2": 0.8299999833106995,
+				"axis_3": 0.6100000143051148,
+				"axis_4": 0.7400000095367432,
+				"axis_5": 0.6000000238418579,
+				"axis_6": 0.41999998688697817,
+				"axis_7": 0.3400000035762787,
+				"axis_8": 0.44999998807907107
+			},
+			"civilStatus": "",
+			"education": "",
+			"denomination": "",
+			"listNumber": 7,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 8,
+					"number": "07.08"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"gender": "f",
+			"zip": 4058,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 1,
+			"elected": 1,
+			"occupation": "Leiterin Community Relations der F. Hoffmann-La Roche, Basel | Lic.iur. Rechtsanwältin",
+			"hobbies": "Freundschaften, Tanzen, Sozialpartnerschaft, Velofahren, Zivilcourage, Einrichten, meine 4 Patenkinder, nach dem Kochen Küche aufräumen (im Ernst!)",
+			"books": "Eine kurze Geschichte der Menschheit (Yuval Noah Harari), Die 7 1/2 Leben des Käpt’n Blaubär (Walter Moers), Tipping Point (Malcom Gladwell), Buddha, oder die Lust am Alltäglichen (Sylvia Boorstein)",
+			"music": "AC/DC, INXS, Mozart, Queen",
+			"movies": "Down by Law (Jim Jarmusch), High Fidelity (Stephen Frears), Love actually (Richard Curtis), Dogma (Kevin Smith)",
+			"slogan": "Als Brückenbauerin und Lösungsfinderin stehe ich für Freiheit, Solidarität und Respekt.\n\nIch setzte mich seit 2014 als Grossrätin ein für \n- die Wirtschaftsregion\n- die Menschenwürde\n- die Achtung vor der Natur\n- das Dreiland\n- die Sozialwerke\n- die Selbstverantwortung",
+			"topics": "Raumplanung, neue Formen von Wohnen und Arbeiten, Wirtschaftkraft, Technologiewandel, Nachhaltigkeit, Familien- und Gesellschaftspolitik, Sicherung der Sozialwerke, Sicherheits- und Friedenspolitik",
+			"firstName": "Adelheid",
+			"lastName": "Tuusigschlau",
+			"birthYear": 1958,
+			"urlImage": "",
+			"partyId": 1,
+			"smartSpider": {
+				"axis_1": 1.0,
+				"axis_2": 0.800000011920929,
+				"axis_3": 0.4699999988079071,
+				"axis_4": 0.6499999761581421,
+				"axis_5": 0.6499999761581421,
+				"axis_6": 0.6299999952316284,
+				"axis_7": 0.3100000023841858,
+				"axis_8": 0.5799999833106995
+			},
+			"civilStatus": "Lié·e par un partenariat enregistré",
+			"education": "Haute école spécialisée",
+			"denomination": "Aucune appartenance",
+			"listNumber": 7,
+			"campaignBudget": 8000,
+			"campaignBudgetComment": "Neben den 8‘000.-- die ich für mich budgetiert habe, unterstütz die CVP ihre Kandidierenden durch Fotoshooting und einige Plakatgebühren udgl. Das wichtigste sind aber meine Unterstützerinnen und Unterstützer, die unzählige Stunden Ihrer Freizeit für mein",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 1,
+					"number": "07.01"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"gender": "m",
+			"zip": 4054,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "Molekularbiologe",
+			"hobbies": "",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "",
+			"topics": "",
+			"firstName": "Harald",
+			"lastName": "Firlifans",
+			"birthYear": 1983,
+			"urlImage": "",
+			"partyId": 1,
+			"smartSpider": {
+				"axis_1": 0.6200000047683716,
+				"axis_2": 0.5199999809265137,
+				"axis_3": 0.2800000011920929,
+				"axis_4": 0.5799999833106995,
+				"axis_5": 0.44999998807907107,
+				"axis_6": 0.550000011920929,
+				"axis_7": 0.5600000023841858,
+				"axis_8": 0.6200000047683716
+			},
+			"civilStatus": "",
+			"education": "Haute école spécialisée",
+			"denomination": "",
+			"listNumber": 7,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 12,
+					"number": "07.12"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"gender": "m",
+			"zip": 4057,
+			"city": "Basel",
+			"country": "Schweiz",
+			"incumbent": 0,
+			"elected": 0,
+			"occupation": "Küchenangestellter/ EBA",
+			"hobbies": "",
+			"books": "",
+			"music": "",
+			"movies": "",
+			"slogan": "",
+			"topics": "Soziales , Bildung , Gleichberechtigung , Zukunft der Schweiz , Familienpolitik ",
+			"firstName": "Stefan",
+			"lastName": "Löli",
+			"birthYear": 1972,
+			"urlImage": "",
+			"partyId": 14,
+			"smartSpider": {
+				"axis_1": 0.5,
+				"axis_2": 0.38999998569488528,
+				"axis_3": 0.2199999988079071,
+				"axis_4": 0.44999998807907107,
+				"axis_5": 0.44999998807907107,
+				"axis_6": 0.699999988079071,
+				"axis_7": 0.8799999952316284,
+				"axis_8": 0.5099999904632568
+			},
+			"civilStatus": "Sans indication",
+			"education": "Formation professionnelle élémentaire",
+			"denomination": "Catholique romaine",
+			"listNumber": 7,
+			"campaignBudget": 0,
+			"campaignBudgetComment": "",
+			"vestedInterests": "",
+			"termsInOffice": [],
+			"listPlaces": [
+				{
+					"position": 13,
+					"number": "07.13"
+				}
+			]
+		}
+	]
+}

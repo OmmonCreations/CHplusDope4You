@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{8027de6c-897d-4cb4-9fc1-029de5f9dc39}">
+		<property name="name">
+			<value>murmeli</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1ce1974-e0c3-443f-b290-c0d4577a9a7a}</destination>
+		</relationship>
+	</object>
+</objects>

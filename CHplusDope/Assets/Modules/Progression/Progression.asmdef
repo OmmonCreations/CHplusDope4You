@@ -1,0 +1,16 @@
+{
+    "name": "Progression",
+    "references": [
+        "GUID:fa2037d2b77ca604b9a36ceeb46bcc30",
+        "GUID:db6e3de22e4bf5d4a9208a96ad04a6b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

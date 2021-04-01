@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e5e6efd9-77ec-42e8-9d50-acf84d80451e}">
+		<property name="assetPath">
+			<value>character-talk-2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.6726530612244899</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{255d1841-a1c7-4095-82e2-1ce0e6162756}</destination>
+		</relationship>
+	</object>
+</objects>

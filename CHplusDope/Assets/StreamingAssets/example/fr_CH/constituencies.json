@@ -1,0 +1,18 @@
+{
+	"Items": [
+		{
+			"id": 56,
+			"name": "Grossbasel West",
+			"coatOfArms": "",
+			"type": "municipal",
+			"cantonId": 5
+		},
+		{
+			"id": 59,
+			"name": "Kanton Basel-Stadt",
+			"coatOfArms": "https://api.staging.chplusapp.ch/static/flag/flag-canton-BS-CH.png",
+			"type": "canton",
+			"cantonId": 5
+		}
+	]
+}

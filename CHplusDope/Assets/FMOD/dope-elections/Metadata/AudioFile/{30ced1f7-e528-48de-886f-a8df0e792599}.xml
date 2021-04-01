@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{30ced1f7-e528-48de-886f-a8df0e792599}">
+		<property name="assetPath">
+			<value>pool-money-splash-2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.2328344671201812</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{255d1841-a1c7-4095-82e2-1ce0e6162756}</destination>
+		</relationship>
+	</object>
+</objects>

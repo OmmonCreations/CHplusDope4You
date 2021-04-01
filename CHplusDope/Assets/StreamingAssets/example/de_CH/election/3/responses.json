@@ -1,0 +1,1834 @@
+{
+	"Items": [
+		{
+			"candidateId": 3,
+			"questionId": 1,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 2,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 3,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 4,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 5,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 6,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 7,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 8,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 9,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 10,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 11,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 12,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 13,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 14,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 15,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 16,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 17,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 18,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 19,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 20,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 21,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 22,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 23,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 24,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 25,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 26,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 27,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 28,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 29,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 30,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 31,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 32,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 33,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 34,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 35,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 36,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 37,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 38,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 39,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 40,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 41,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 42,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 43,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 44,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 45,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 46,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 47,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 48,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 49,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 50,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 51,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 52,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 53,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 54,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 55,
+			"value": 33,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 56,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 57,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 58,
+			"value": 17,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 59,
+			"value": 67,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 60,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 3,
+			"questionId": 61,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 1,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 2,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 3,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 4,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 5,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 6,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 7,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 8,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 9,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 10,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 11,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 12,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 13,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 14,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 15,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 16,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 17,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 18,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 19,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 20,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 21,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 22,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 23,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 24,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 25,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 26,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 27,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 28,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 29,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 30,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 31,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 32,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 33,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 34,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 35,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 36,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 37,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 38,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 39,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 40,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 41,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 42,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 43,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 44,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 45,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 46,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 47,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 48,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 49,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 50,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 51,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 52,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 53,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 54,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 55,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 56,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 57,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 58,
+			"value": 17,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 59,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 60,
+			"value": 33,
+			"comment": ""
+		},
+		{
+			"candidateId": 4,
+			"questionId": 61,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 1,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 2,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 3,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 4,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 5,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 6,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 7,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 8,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 9,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 10,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 11,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 12,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 13,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 14,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 15,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 16,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 17,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 18,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 19,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 20,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 21,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 22,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 23,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 24,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 25,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 26,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 27,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 28,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 29,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 30,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 31,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 32,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 33,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 34,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 35,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 36,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 37,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 38,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 39,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 40,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 41,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 42,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 43,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 44,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 45,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 46,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 47,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 48,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 49,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 50,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 51,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 52,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 53,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 54,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 55,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 56,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 57,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 58,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 59,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 60,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 5,
+			"questionId": 61,
+			"value": 67,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 1,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 2,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 3,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 4,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 5,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 6,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 7,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 8,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 9,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 10,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 11,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 12,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 13,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 14,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 15,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 16,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 17,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 18,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 19,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 20,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 21,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 22,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 23,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 24,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 25,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 26,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 27,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 28,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 29,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 30,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 31,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 32,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 33,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 34,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 35,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 36,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 37,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 38,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 39,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 40,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 41,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 42,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 43,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 44,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 45,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 46,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 47,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 48,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 49,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 50,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 51,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 52,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 53,
+			"value": 25,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 54,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 55,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 56,
+			"value": 67,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 57,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 58,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 59,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 60,
+			"value": 50,
+			"comment": ""
+		},
+		{
+			"candidateId": 6,
+			"questionId": 61,
+			"value": 67,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 1,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 2,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 3,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 4,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 5,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 6,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 7,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 8,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 9,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 10,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 11,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 12,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 13,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 14,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 15,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 16,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 17,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 18,
+			"value": 75,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 19,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 20,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 21,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 22,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 23,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 24,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 25,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 26,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 27,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 28,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 29,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 30,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 31,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 32,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 33,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 34,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 35,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 36,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 37,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 38,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 39,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 40,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 41,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 42,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 43,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 44,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 45,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 46,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 47,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 48,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 49,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 50,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 51,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 52,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 53,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 54,
+			"value": 0,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 55,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 56,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 57,
+			"value": 100,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 58,
+			"value": 67,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 59,
+			"value": 83,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 60,
+			"value": 17,
+			"comment": ""
+		},
+		{
+			"candidateId": 7,
+			"questionId": 61,
+			"value": 33,
+			"comment": ""
+		}
+	]
+}

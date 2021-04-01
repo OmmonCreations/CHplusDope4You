@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d11e994dfd71455d92f97eb840a9fb6c, type: 3}
+  m_Name: SpeechBubbles
+  m_EditorClassIdentifier: 
+  _speechBubblePrefabs:
+  - {fileID: 366749564090435255, guid: 85b486ebdbab5fe45bdc20c01b52a222, type: 3}

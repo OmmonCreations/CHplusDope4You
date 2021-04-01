@@ -1,0 +1,34 @@
+{
+	"Items": [
+		{
+			"id": 1,
+			"name": "Sozialstaat & Familie",
+			"image": "https://api.staging.chplusapp.ch/static/question/question-category-77.svg",
+			"background": "linear-gradient(20deg, #32507f, #1c89a8);"
+		},
+		{
+			"id": 2,
+			"name": "Gesundheitswesen",
+			"image": "https://api.staging.chplusapp.ch/static/question/question-category-78.svg",
+			"background": "linear-gradient(20deg, #327f65, #00a188);"
+		},
+		{
+			"id": 4,
+			"name": "Migration & Integration",
+			"image": "https://api.staging.chplusapp.ch/static/question/question-category-80.svg",
+			"background": "linear-gradient(20deg, #793972, #784973);"
+		},
+		{
+			"id": 17,
+			"name": "Bildung & Schule",
+			"image": "https://api.staging.chplusapp.ch/static/question/question-category-93.svg",
+			"background": "linear-gradient(20deg, #5a427f, #65557d);"
+		},
+		{
+			"id": 18,
+			"name": "Gesellschaft, Kultur & Ethik",
+			"image": "https://api.staging.chplusapp.ch/static/question/question-category-94.svg",
+			"background": "linear-gradient(20deg, #80473e, #815750);"
+		}
+	]
+}

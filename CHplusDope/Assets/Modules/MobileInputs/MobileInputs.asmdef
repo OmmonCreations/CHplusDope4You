@@ -1,0 +1,16 @@
+{
+    "name": "MobileInputs",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:db6e3de22e4bf5d4a9208a96ad04a6b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

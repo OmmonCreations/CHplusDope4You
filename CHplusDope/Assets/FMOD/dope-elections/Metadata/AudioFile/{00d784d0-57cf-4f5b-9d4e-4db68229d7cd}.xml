@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{00d784d0-57cf-4f5b-9d4e-4db68229d7cd}">
+		<property name="assetPath">
+			<value>pool-splat-2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.78564625850340131</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{255d1841-a1c7-4095-82e2-1ce0e6162756}</destination>
+		</relationship>
+	</object>
+</objects>

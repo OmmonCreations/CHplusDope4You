@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fede9198855c47798bc91da7b2e2b7f0, type: 3}
+  m_Name: MudPool
+  m_EditorClassIdentifier: 
+  _typeId: dope_elections:mud_pool
+  _prefab: {fileID: 6748966883010372910, guid: c36156d01380f414fa821ee102e9c4fa, type: 3}
+  _speedModifier: 0.6
+  _movementParticles: {fileID: 3223721457046783653, guid: c04debb3b2630804f83b7950188e938d, type: 3}
+  _toppleParticles: {fileID: 2282379221366216582, guid: 7d0e9bb16c940f746963601a4133801d, type: 3}

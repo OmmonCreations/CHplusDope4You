@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6edc890b2dab444d91ddaefe1d68641f, type: 3}
+  m_Name: set-medium
+  m_EditorClassIdentifier: 
+  _width: 28
+  _viewLength: 100
+  _cameraTransformation:
+    position: {x: 3.2, y: 0, z: 0}
+    eulerAngles: {x: 60.000004, y: 280, z: 0}
+    distance: 56.79
+    fov: 30
+  _parts:
+  - {fileID: 7270310050579656736, guid: b40f79ac6b0b9254cb74ee3905e03e72, type: 3}
+  - {fileID: 7270310050579656736, guid: d2bf2b9f3559c134383f1fca15a36cb0, type: 3}
+  - {fileID: 7270310050579656736, guid: d2ea8e69297d44742a432a062c2c6e2b, type: 3}
+  - {fileID: 7270310050579656736, guid: 9de38d5bf39308241814489d09195e15, type: 3}
+  - {fileID: 7270310050579656736, guid: 41f12b6a34405384a9a081eb3da55ef7, type: 3}
+  - {fileID: 7270310050579656736, guid: 474e0d0375b69e04484dc3d5a7e7fc18, type: 3}
+  - {fileID: 7270310050579656736, guid: 93c3386162d44414d8f2321fbced0dec, type: 3}
+  - {fileID: 7270310050579656736, guid: 102decf4a4c05e642a5a9b9990e5d08a, type: 3}
+  - {fileID: 7270310050579656736, guid: a6185061e66205d4a9d73895ea3e289b, type: 3}
+  - {fileID: 7270310050579656736, guid: 4d04428aa74327c48bd8d7e585fc41c7, type: 3}

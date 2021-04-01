@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2bda1e74-325f-4773-89d3-77ab6dd8bd0e}">
+		<property name="assetPath">
+			<value>local-forecast-elevator.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>189.20489795918368</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{255d1841-a1c7-4095-82e2-1ce0e6162756}</destination>
+		</relationship>
+	</object>
+</objects>

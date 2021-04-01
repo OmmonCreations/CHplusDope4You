@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{8813ced9-fdb7-4035-8161-6c9ce47c4cde}">
+		<property name="name">
+			<value>race_volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a74a5f2b-ae63-43f9-8ac2-bbd2e614acd5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ad0995b2-c16c-44e3-87d7-efbae99a1cdf}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ad0995b2-c16c-44e3-87d7-efbae99a1cdf}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

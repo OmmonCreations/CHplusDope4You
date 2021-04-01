@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f99262c98048bda64805a1579e3fc9, type: 3}
+  m_Name: LoveCannon
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 1602432078641698786, guid: 38a9168f9eb9f14449def166efd38756, type: 3}
+  _size: {x: 2, y: 2}
+  _loadTime: 0.4
+  _loadTimeRandomization: 0.1
+  _aimTime: 0.6
+  _aimTimeRandomization: 0.6
+  _shootDelay: 0.1
+  _impactStrength: 3
+  _shootEffect: {fileID: 222098762640981763, guid: ad7cab46d7f4f614994761809a820e23, type: 3}
+  _trailEffect: {fileID: 2431335796277726679, guid: c941bf6059d75414c9808f68eb9a3ee5, type: 3}
+  _loadSound: event:/sfx/obstacle/cannon/generic/load
+  _shootSound: event:/sfx/obstacle/cannon/love/shoot

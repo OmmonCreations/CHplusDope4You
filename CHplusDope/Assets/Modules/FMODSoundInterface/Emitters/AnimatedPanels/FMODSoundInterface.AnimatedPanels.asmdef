@@ -1,0 +1,16 @@
+{
+    "name": "FMODSoundInterface.AnimatedPanels",
+    "references": [
+        "GUID:9b0f1cb1f8a3c224cbbef2a50de189d6",
+        "GUID:08a58c7b08ccfdc4597434e2d4cfe1cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

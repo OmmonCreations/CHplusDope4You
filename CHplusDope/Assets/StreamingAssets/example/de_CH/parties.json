@@ -1,0 +1,184 @@
+{
+	"Items": [
+		{
+			"id": 1,
+			"logo": "",
+			"abbr": "CVP",
+			"name": "Christlichdemokratische Volkspartei ",
+			"color": "#D6862B",
+			"onColor": "#000",
+			"onWhite": "#B56100",
+			"onBlack": "#D6862B"
+		},
+		{
+			"id": 2,
+			"logo": "",
+			"abbr": "EVP",
+			"name": "Evangelische Volkspartei",
+			"color": "#DEAA28",
+			"onColor": "#000",
+			"onWhite": "#996E00",
+			"onBlack": "#DEAA28"
+		},
+		{
+			"id": 3,
+			"logo": "",
+			"abbr": "Grüne",
+			"name": "Grüne Wallis",
+			"color": "#84B547",
+			"onColor": "#000",
+			"onWhite": "#5D8132",
+			"onBlack": "#84B547"
+		},
+		{
+			"id": 4,
+			"logo": "",
+			"abbr": "SP",
+			"name": "Sozialdemokratische Partei",
+			"color": "#F0554D",
+			"onColor": "#FFF",
+			"onWhite": "#D0362E",
+			"onBlack": "#F0554D"
+		},
+		{
+			"id": 5,
+			"logo": "",
+			"abbr": "BastA!",
+			"name": "Basels starke Alternative!",
+			"color": "#9D9D9D",
+			"onColor": "#000",
+			"onWhite": "#757575",
+			"onBlack": "#757575"
+		},
+		{
+			"id": 6,
+			"logo": "",
+			"abbr": "BDP",
+			"name": "Bürgerlich-Demokratische Partei",
+			"color": "#E6C820",
+			"onColor": "#000",
+			"onWhite": "#998200",
+			"onBlack": "#E6C820"
+		},
+		{
+			"id": 7,
+			"logo": "",
+			"abbr": "FDP",
+			"name": "FDP.Die Liberalen",
+			"color": "#3872B5",
+			"onColor": "#FFF",
+			"onWhite": "#3872B5",
+			"onBlack": "#3B79BF"
+		},
+		{
+			"id": 8,
+			"logo": "",
+			"abbr": "LDP",
+			"name": "Liberal-Demokratische Partei Basel-Stadt",
+			"color": "#618DEA",
+			"onColor": "#000",
+			"onWhite": "#4370D0",
+			"onBlack": "#618DEA"
+		},
+		{
+			"id": 9,
+			"logo": "",
+			"abbr": "SVP",
+			"name": "Schweizerische Volkspartei",
+			"color": "#4B8A3E",
+			"onColor": "#FFF",
+			"onWhite": "#4F9141",
+			"onBlack": "#4B8A3E"
+		},
+		{
+			"id": 10,
+			"logo": "",
+			"abbr": "f-u-k",
+			"name": "freistaat unteres kleinbasel",
+			"color": "#9D9D9D",
+			"onColor": "#000",
+			"onWhite": "#757575",
+			"onBlack": "#757575"
+		},
+		{
+			"id": 11,
+			"logo": "",
+			"abbr": "VA",
+			"name": "Volks-Aktion gegen zuviele Ausländer und Asylanten in unserer Heimat",
+			"color": "#9D9D9D",
+			"onColor": "#000",
+			"onWhite": "#757575",
+			"onBlack": "#757575"
+		},
+		{
+			"id": 12,
+			"logo": "",
+			"abbr": "jgb",
+			"name": "jgb",
+			"color": "#84B547",
+			"onColor": "#000",
+			"onWhite": "#5D8132",
+			"onBlack": "#84B547"
+		},
+		{
+			"id": 13,
+			"logo": "",
+			"abbr": "JUSO",
+			"name": "JungsozialistInnen Siders",
+			"color": "#F0554D",
+			"onColor": "#FFF",
+			"onWhite": "#D0362E",
+			"onBlack": "#F0554D"
+		},
+		{
+			"id": 14,
+			"logo": "",
+			"abbr": "JCVP",
+			"name": "Junge CVP",
+			"color": "#D6862B",
+			"onColor": "#000",
+			"onWhite": "#B56100",
+			"onBlack": "#D6862B"
+		},
+		{
+			"id": 15,
+			"logo": "",
+			"abbr": "Parteilos",
+			"name": "Parteilos",
+			"color": "#9D9D9D",
+			"onColor": "#000",
+			"onWhite": "#757575",
+			"onBlack": "#757575"
+		},
+		{
+			"id": 16,
+			"logo": "",
+			"abbr": "glp",
+			"name": "Grünliberale Partei",
+			"color": "#C4C43D",
+			"onColor": "#000",
+			"onWhite": "#999900",
+			"onBlack": "#C4C43D"
+		},
+		{
+			"id": 17,
+			"logo": "",
+			"abbr": "jglp",
+			"name": "Junge Grünliberale",
+			"color": "#C4C43D",
+			"onColor": "#000",
+			"onWhite": "#999900",
+			"onBlack": "#C4C43D"
+		},
+		{
+			"id": 18,
+			"logo": "",
+			"abbr": "Piraten",
+			"name": "Piratenpartei beider Basel",
+			"color": "#9D9D9D",
+			"onColor": "#000",
+			"onWhite": "#757575",
+			"onBlack": "#757575"
+		}
+	]
+}

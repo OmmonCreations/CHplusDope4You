@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fede9198855c47798bc91da7b2e2b7f0, type: 3}
+  m_Name: EuroPool
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 6748966883010372910, guid: 1ed10805620e43d4a8d55dcb9d40c941, type: 3}
+  _speedModifier: 0.6
+  _movementParticles: {fileID: 3223721457046783653, guid: fc2c58ca816dc284b861df2eab6224df, type: 3}
+  _toppleParticles: {fileID: 2282379221366216582, guid: 4c36002c6cfbafe4881fee3bc41071be, type: 3}

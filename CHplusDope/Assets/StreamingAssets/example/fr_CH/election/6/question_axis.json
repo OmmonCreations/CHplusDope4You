@@ -1,0 +1,124 @@
+{
+	"Items": [
+		{
+			"axis": 7,
+			"value": -1,
+			"questionId": 1
+		},
+		{
+			"axis": 7,
+			"value": 1,
+			"questionId": 2
+		},
+		{
+			"axis": 3,
+			"value": -1,
+			"questionId": 3
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 3
+		},
+		{
+			"axis": 7,
+			"value": -1,
+			"questionId": 4
+		},
+		{
+			"axis": 7,
+			"value": 1,
+			"questionId": 5
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 5
+		},
+		{
+			"axis": 3,
+			"value": -1,
+			"questionId": 6
+		},
+		{
+			"axis": 7,
+			"value": 1,
+			"questionId": 6
+		},
+		{
+			"axis": 7,
+			"value": -1,
+			"questionId": 7
+		},
+		{
+			"axis": 8,
+			"value": -1,
+			"questionId": 9
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 11
+		},
+		{
+			"axis": 7,
+			"value": 1,
+			"questionId": 13
+		},
+		{
+			"axis": 5,
+			"value": -1,
+			"questionId": 14
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 14
+		},
+		{
+			"axis": 5,
+			"value": 1,
+			"questionId": 15
+		},
+		{
+			"axis": 1,
+			"value": -1,
+			"questionId": 16
+		},
+		{
+			"axis": 2,
+			"value": -1,
+			"questionId": 16
+		},
+		{
+			"axis": 5,
+			"value": 1,
+			"questionId": 16
+		},
+		{
+			"axis": 5,
+			"value": -1,
+			"questionId": 17
+		},
+		{
+			"axis": 5,
+			"value": -1,
+			"questionId": 18
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 19
+		},
+		{
+			"axis": 4,
+			"value": -1,
+			"questionId": 20
+		},
+		{
+			"axis": 8,
+			"value": 1,
+			"questionId": 20
+		}
+	]
+}
